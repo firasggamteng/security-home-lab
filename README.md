@@ -6,4 +6,4 @@ Belajar penetration testing dasar dan nanti deteksi serangan
 ## Tools
 -VirtualBox
 -kali Linux (Penyerang)
-- metasploitable (target)
+-metasploitable (target)
