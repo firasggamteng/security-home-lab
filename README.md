@@ -1,2 +1,9 @@
-# security-home-lab
-Home lab cybersecurity: Kali Linux + Metasploitable, dokumentasi serangan dan pertahanan
+# Security Home Lab
+Lab cybersecurity pribadi untuk belajar serangan dan pertahanan
+
+## Tujuan
+Belajar penetration testing dasar dan nanti deteksi serangan 
+## Tools
+-VirtualBox
+-kali Linux (Penyerang)
+- metasploitable (target)
